@@ -58,4 +58,22 @@ This lab helped me gain practical experience with managing Windows user accounts
 
 ## Screenshots
 
-Screenshots documenting the account creation, group configuration, membership verification, and account disabling process will be added to the `screenshots` folder.
+## Screenshots
+
+### 1. User Account Creation
+![User Account Creation](01-user-created.png)
+
+### 2. Standard User Membership
+![Standard User Membership](02-standard-user-membership.png)
+
+### 3. Security Group Creation
+![Security Group Creation](03-security-group-created.png)
+
+### 4. User Added to Security Group
+![Group Assignment](04-user-added-to-group.png)
+
+### 5. Group Membership Verification
+![Group Membership Verification](05-group-membership-verified.png)
+
+### 6. Account Deactivation
+![Account Disabled](06-account-disabled.png)
